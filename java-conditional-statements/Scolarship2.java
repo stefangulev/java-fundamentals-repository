@@ -1,0 +1,2 @@
+public class Scolarship2 {
+}
